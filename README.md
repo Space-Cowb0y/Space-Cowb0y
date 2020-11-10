@@ -39,7 +39,8 @@
 <img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/tor.svg" />
 <img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/linux.svg" />
 
-BTW I use <img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
+<br />
+BTW I use <img alt="arch" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
 
 <br />
 <br />
@@ -51,6 +52,7 @@ BTW I use <img align="left" alt="tor" width="26px" src="https://simpleicons.org/
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&show_icons=true&theme=vue)
 </details>
 
+<br />
 
 "Bang!..." 
 
