@@ -13,7 +13,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Space-Cowb0y Spotify Playing" width="350" />](https://open.spotify.com/user/mitzraell?si=B0JT0KPiTYC5C7cxHqPZyw)
 
 
 ### Connect with me:
