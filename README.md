@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruno - aka [Space-Cowb0y] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Sp4ce_Cowb0y_&screen_name=Sp4ce_Cowb0y_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Space-Cowb0y&screen_name=Sp4ce_Cowb0y_)
 
 ## I'm a Husband, Stepfather, Developer, and Security Researcher!!
 
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Space-Cowb0y.vercel.app/api/spotify-playing" alt="Space-Cowb0y Spotify Playing" width="350" />](https://open.spotify.com/user/mitzraell?si=B0JT0KPiTYC5C7cxHqPZyw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Space-Cowb0y Spotify Playing" width="350" />](https://open.spotify.com/user/mitzraell?si=B0JT0KPiTYC5C7cxHqPZyw)
 
 
 ### Connect with me:
