@@ -13,8 +13,10 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://spotify-readme.space-cowb0y.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 
+<a href="https://spotify-readme.space-cowb0y.vercel.app/now-playing?open">
+    <img src="https://spotify-readme.space-cowb0y.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 
