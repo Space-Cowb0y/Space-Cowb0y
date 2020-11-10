@@ -1,6 +1,7 @@
 ### Hi there, I'm Bruno - aka [Space-Cowb0y] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpace-Cowb0y&screen_name=Sp4ce_Cowb0y_)
+![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1da1f2&logo=twitter&style=for-the-badge)
+
 
 ## I'm a Husband, Stepfather, Developer, and Security Researcher!!
 
@@ -17,9 +18,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sp4ce_Cowb0y_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sp4ce_Cowb0y_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sp4ce_Cowb0y_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,7 +44,7 @@ And others...
   <summary>:zap: GitHub Stats</summary>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&show_icons=true)
-
+</details>
 "Bang!..." 
 
 [twitter]: https://twitter.com/Sp4ce_Cowb0y_
