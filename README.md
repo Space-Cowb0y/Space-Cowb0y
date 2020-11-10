@@ -1,4 +1,4 @@
-### Hi there, I'm Bruno - aka [Space-Cowb0y] 👋
+### Hi there, I'm Bruno - aka Space-Cowb0y
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sp4ce_Cowb0y_)
 
