@@ -1,12 +1,58 @@
-## Bruno "Space Cowb0y" Carvalho
+### Hi there, I'm Bruno - aka [Space-Cowb0y] 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Sp4ce_Cowb0y_&screen_name=Sp4ce_Cowb0y_)
+
+## I'm a Husband, Stepfather, Developer, and Security Researcher!!
+
+- 🔭 I’m currently working on IT Consultanting!
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I’m looking to collaborate with others about CTFs and Cybersec.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love play Tetris!
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-Space-Cowb0y.vercel.app/api/spotify-playing" alt="Space-Cowb0y Spotify Playing" width="350" />](https://open.spotify.com/user/mitzraell?si=B0JT0KPiTYC5C7cxHqPZyw)
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Space-Cowb0y)](https://github.com/Space-Cowb0y)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-henrique-carvalho/)](https://www.linkedin.com/in/bruno-henrique-carvalho/)
+### Connect with me:
 
-### About
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on IT Consultanting
-- 🌱 I’m currently learning javaScript and python for CyberSec
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/python.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/sas.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/zabbix.png" />]
+
+<br />
+<br />
+
+---
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Space-Cowb0y's GitHub Stats" src="https://github-readme-stats.Space-Cowb0y.vercel.app/api?username=Space-Cowb0y&show_icons=true&hide_border=true" />
+
+</details>
 
 "Bang!..." 
+
+[twitter]: https://twitter.com/Sp4ce_Cowb0y_
+[instagram]: https://instagram.com/brunohoc
+[linkedin]: https://www.linkedin.com/in/bruno-henrique-carvalho/
