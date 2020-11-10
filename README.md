@@ -1,7 +1,6 @@
 ### Hi there, I'm Bruno - aka [Space-Cowb0y] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?user_id=Sp4ce_Cowb0y_)
-![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1da1f2&logo=twitter&style=for-the-badge)
 
 
 ## I'm a Husband, Stepfather, Developer, and Security Researcher!!
