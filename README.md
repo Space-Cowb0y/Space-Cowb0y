@@ -14,7 +14,7 @@
 ### Spotify Playing 🎧
 
 
-[![Spotify](spotify-for-readme.vercel.app/api/spotify)](https://open.spotify.com/user/mitzraell?si=HlCr_Rv1SrC_gq6ZYk1Keg)
+[![Spotify](spotify-for-readme.vercel.app/api/spotify)](https://open.spotify.com/user/mitzraell)
 
 
 
