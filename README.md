@@ -40,6 +40,8 @@
 <img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/linux.svg" />
 
 <br />
+<br />
+
 BTW I use <img alt="arch" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
 
 <br />
