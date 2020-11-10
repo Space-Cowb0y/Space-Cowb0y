@@ -45,8 +45,9 @@ And thers...
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Space-Cowb0y's GitHub Stats" src="github-readme-stats-eight-steel.vercel.app/api?username=Space-Cowb0y&show_icons=true&hide_border=true" />
-
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="github-readme-stats-eight-steel.vercel.app/api/pin/?username=Space-Cowb0y&repo=github-readme-stats" />
+</a>
 </details>
 
 "Bang!..." 
