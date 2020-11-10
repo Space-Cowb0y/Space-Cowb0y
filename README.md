@@ -13,6 +13,10 @@
 
 ### Spotify Playing 🎧
 
+<a href="https://status.nmoo.dev/now-playing?open">
+    <img src="https://spotify-readme.space-cowb0y.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
 
 
 ### Connect with me:
