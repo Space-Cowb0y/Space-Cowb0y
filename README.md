@@ -37,7 +37,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/torproject.svg" />
-<img align="left" alt="tor" width="26px" src="https://simpleicons.org/icns/linux.svg" />
+<img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/linux.svg" />
 
 <br />
 <br />
