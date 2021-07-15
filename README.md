@@ -5,7 +5,7 @@
 
 ## I'm a Developer and Security Researcher!!
 
-- 🔭 I’m currently working on IT Consultancy!
+- 🔭 I’m currently working with IT Security!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with others about CTFs and Cybersec.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
