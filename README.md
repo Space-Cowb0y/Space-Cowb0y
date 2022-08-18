@@ -44,6 +44,8 @@ BTW I use
 </details>
 
 <br />
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Cowb0y&theme=blue-green)]()
+
 
 "Bang!..." 
 
