@@ -1,8 +1,5 @@
 ### Hi there, I'm Bruno - aka Space-Cowb0y
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sp4ce_Cowb0y_)
-
-
 ## I'm a Developer and Security Researcher!!
 
 - 🔭 I’m currently working with IT Security!
@@ -19,33 +16,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sp4ce_Cowb0y_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sp4ce_Cowb0y_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sp4ce_Cowb0y_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sp4ce_Cowb0y_)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-carvalho/)
+[![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Space-Cowb0y)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 <br />
 
 ### Languages and Tools:
 
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/torproject.svg" />
-<img align="left" alt="tor" width="26px" src="https://simpleicons.org/icons/linux.svg" />
-
-<br />
-<br />
-
-BTW I use <img alt="arch" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
-
-<br />
-<br />
 
 
 <details>
