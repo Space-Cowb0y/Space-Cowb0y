@@ -1,5 +1,7 @@
 ### Hi there, I'm Bruno - aka Space-Cowb0y
 
+[![Github](https://img.shields.io/github/followers/Space-Cowb0y.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Space-Cowb0y)
+
 ## I'm a Developer and Security Researcher!!
 
 - 🔭 I’m currently working with IT Security!
@@ -18,7 +20,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sp4ce_Cowb0y_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-carvalho/)
-[![Github](https://img.shields.io/github/followers/Space-Cowb0y.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Space-Cowb0y)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 <br />
