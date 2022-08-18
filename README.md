@@ -38,13 +38,13 @@ BTW I use
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&show_icons=true&theme=vue)
+<summary>:zap: GitHub Stats</summary>
+![Space Cowb0y's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Cowb0y&theme=blue-green)
+![Space Cowb0y's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&show_icons=true&theme=vue)
 </details>
 
 <br />
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Cowb0y&theme=blue-green)
+
 
 
 "Bang!..." 
