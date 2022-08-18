@@ -22,7 +22,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-carvalho/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -40,12 +40,11 @@ BTW I use
 <details>
 <summary>:zap: GitHub Stats</summary>
 ![Space Cowb0y's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Cowb0y&theme=blue-green)
-![Space Cowb0y's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&show_icons=true&theme=vue)
+  
+![Space Cowb0y's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&theme=blue-green)
 </details>
 
-<br />
-
-
+<br>
 
 "Bang!..." 
 
