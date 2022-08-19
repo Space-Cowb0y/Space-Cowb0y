@@ -1,4 +1,4 @@
-### Hi there, I'm Bruno - aka Space-Cowb0y
+### Hi there, I'm Bruno - aka Space Cowb0y
 
 [![Github](https://img.shields.io/github/followers/Space-Cowb0y.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Space-Cowb0y)
 
