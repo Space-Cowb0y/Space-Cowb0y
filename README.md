@@ -46,6 +46,8 @@ BTW I use
 ![Space Cowb0y's github stats](https://github-readme-stats.vercel.app/api?username=Space-Cowb0y&theme=blue-green)
 </details>
 
+![snake svg](https://github.com/Space-Cowb0y/Space-Cowb0y/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 "Bang!..." 
