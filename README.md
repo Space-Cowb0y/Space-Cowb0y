@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with IT Security!
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with others about CTFs and Cybersec.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2045 Goals: Finish something! (oh my CEH!)
 - ⚡ Fun fact: I love play Tetris!
 
 ### Spotify Playing 🎧
@@ -26,11 +26,11 @@
 
 ### Languages and Tools:
 
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 BTW I use
