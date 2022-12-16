@@ -18,7 +18,6 @@
 
 ### Connect with me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sp4ce_Cowb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sp4ce_Cowb0y_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-carvalho/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
