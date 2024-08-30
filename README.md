@@ -5,9 +5,9 @@
 ## I'm a Developer and Security Researcher!!
 
 - 🔭 I’m currently working with IT Security!
-- 🌱 I’m currently learning everything.
+- 🐕 Raising a Shiba! 
 - 👯 I’m looking to collaborate with others about CTFs and Cybersec.
-- 🥅 2045 Goals: Finish something! (oh my CEH!)
+- 🥅 2045 Goals: Finish something!
 - ⚡ Fun fact: I love play Tetris!
 
 ### Spotify Playing 🎧
