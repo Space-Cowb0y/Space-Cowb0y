@@ -12,8 +12,8 @@
 
 ### Spotify Playing 🎧
 
+[Spotify Status](https://music.jammingwith.cloud/?token=30a11ae3-83f4-4200-8a7d-839f14e57e45)
 
-[![Spotify](https://spotify-for-readme.space-cowb0y.vercel.app//api/spotify)](https://open.spotify.com/user/mitzraell)
 
 
 ### Connect with me:
